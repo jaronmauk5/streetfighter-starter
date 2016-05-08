@@ -21,6 +21,11 @@ body{
 	display:none;
 }
 
+.ryu-ready, .ryu-still, .ryu-throwing {
+  width: 659px;
+  height: 494px;
+}
+
 .ryu-ready {
 	background-image: url('../images/ryu-ready-position.gif');
 }
